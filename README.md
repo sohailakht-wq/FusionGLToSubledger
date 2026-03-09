@@ -1,0 +1,3 @@
+1)GL to Subledger detail level query for following subledger 'Payables','Project Accounting','Projects','Receipt Accounting','Cost Accounting','Receivables' 
+2)Subledger details like Customer details, Supplier details, project attributes, Invoice Number of AP and AR, check number, receipt numbers, PO number, Requisition number, Inv Receipts, Misc Transaction details, Item number Query has parameter Posting status, GL segments filter for first 8 segments. JE Source and JE Category parameters. 
+3)Create the data model in BI Publisher with this query and can create templates in Excel or use Oracle BIP to create template based on modified SQL query as per need.
